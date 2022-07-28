@@ -10,10 +10,10 @@
 
 In this project I learned about flexbox and with using flexbox it will be bit easy to make webpage.
 
-[Visit this website](https://abhi-project-1.netlify.app/)
+[Visit this website](https://abhi-project-6.netlify.app/)
 
 
 #
 
-To see my work visit my [Portfolio]("my-portfolio-website")
+To see my work visit my [Portfolio](https://portfolio-of-abhishek.netlify.app)
 
