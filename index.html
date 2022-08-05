@@ -42,7 +42,6 @@
         display: flex;
         flex-direction: row;
         justify-content: flex-start;
-        /* flex-grow: 0.12; */
         padding-top: 20px;
         margin-right: 10px;
       }
@@ -112,6 +111,56 @@
       }
       .midWholePart13Parts div{
         padding: 0px 10px;
+      }
+      @media screen and (max-width:1028px) {
+        #midWholePart11{
+          margin-right: 0%;
+        }
+        #imgMain{
+          opacity: 0.3;
+        }
+      }
+
+      @media screen and (max-width:575px) {
+        #midWholePart11{
+          margin-right: 0%;
+          text-align: center;
+        }
+        #midWholePart13{
+          margin-top: 100px;
+          flex-wrap: wrap;
+          gap: 20px;
+        }
+        #navbarMonstera{
+          margin:10px
+        }
+        #navMid {
+          padding: 10px;
+        }
+        #navMid div h4{
+          margin-left: 20px;
+        }
+        #navFirst img{
+          width: 80px;
+        }
+        #navEnd{
+          display: none;
+        }
+        #midWholePart11 h1{
+          font-size: 40px;
+        }
+        #midWholePart121{
+          font-size: 10px;
+        }
+      }
+      @media screen and (max-width:486px) {
+        #navMid div h4{
+          margin-left: 2px;
+          font-size: 10px;
+        }
+        #midWholePart13{
+          margin: 10px 10px;
+        }
       }
     </style>
   </head>

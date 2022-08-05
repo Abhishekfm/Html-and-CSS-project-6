@@ -8,7 +8,7 @@
 
 ![Project 6 Image](five.png)
 
-In this project I learned about flexbox and with using flexbox it will be bit easy to make webpage.
+In this project, I learned about flexbox and with using flexbox it will be a bit easy to make a webpage.
 
 [Visit this website](https://abhi-project-6.netlify.app/)
 
